@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T15:46:59 IST" name="suite001" finished-at="2023-11-09T15:47:05 IST" duration-ms="5678">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T15:46:59 IST" name="test001" finished-at="2023-11-09T15:47:05 IST" duration-ms="5678">
+      <class name="in.reqres.test.Script004LoggingRequest">
+        <test-method signature="Logging_Request()[pri:0, instance:in.reqres.test.Script004LoggingRequest@5d534f5d]" started-at="2023-11-09T15:47:04 IST" name="Logging_Request" finished-at="2023-11-09T15:47:05 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logging_Request -->
+      </class> <!-- in.reqres.test.Script004LoggingRequest -->
+      <class name="in.reqres.test.Script001RegisterUser">
+        <test-method signature="registerUser()[pri:0, instance:in.reqres.test.Script001RegisterUser@72e5a8e]" started-at="2023-11-09T15:46:59 IST" name="registerUser" finished-at="2023-11-09T15:47:03 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+      </class> <!-- in.reqres.test.Script001RegisterUser -->
+      <class name="in.reqres.test.Script003LoginUsers">
+        <test-method signature="Login_User()[pri:0, instance:in.reqres.test.Script003LoginUsers@576d5deb]" started-at="2023-11-09T15:47:03 IST" name="Login_User" finished-at="2023-11-09T15:47:04 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_User -->
+      </class> <!-- in.reqres.test.Script003LoginUsers -->
+      <class name="in.reqres.test.Script002GetUsers">
+        <test-method signature="getUsers()[pri:0, instance:in.reqres.test.Script002GetUsers@5e600dd5]" started-at="2023-11-09T15:47:03 IST" name="getUsers" finished-at="2023-11-09T15:47:03 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+      </class> <!-- in.reqres.test.Script002GetUsers -->
+    </test> <!-- test001 -->
+  </suite> <!-- suite001 -->
+</testng-results>
